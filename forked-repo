@@ -1,0 +1,11 @@
+curl -X GET "https://api.github.com/repos/<your-github-username>/mcino-Introduction-to-Git-and-GitHub" -H "Accept: application/vnd.github+json"
+
+{
+  "id": 123456789,
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "<your-github-username>/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
