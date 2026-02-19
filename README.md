@@ -7,3 +7,5 @@ Simple Interest Calculator
 
 ## Description
 A basic Bash script (`simple-interest.sh`) to compute simple interest from user-provided principal, annual rate of interest, and time period.
+
+Version 2
